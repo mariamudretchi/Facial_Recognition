@@ -1,0 +1,1 @@
+The project aims to implement in Python a practical application focused on detecting and recognizing faces in images captured from a webcam. Using an internal database, identified individuals can be recognized, and users have the option to manage this database by adding or deleting people through a graphical interface.
